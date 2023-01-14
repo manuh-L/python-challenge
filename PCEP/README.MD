@@ -1,7 +1,7 @@
 ![PCEP – Certified Entry-Level Python Programmer](https://github.com/manuh-L/python-challenge/blob/main/PCEP/pcep.png)
 
 
-Here's the content I used to prepare for the exam [PCEP-30-02:](https://pythoninstitute.org/pcep)
+# Here's the content I used to prepare for the exam [PCEP-30-02:](https://pythoninstitute.org/pcep)
 
 1. Udemy course [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/). It's a good course, From day 1 - 13 is enough, it covers the exam syllabus/blueprint. You will learn by building projects in python.
 
