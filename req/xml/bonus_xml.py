@@ -7,7 +7,7 @@ Course = collections.namedtuple('Course', 'title building room days')
 
 def main():
     folder = os.path.dirname(__file__)
-    file = os.path.join(folder, 'xml_data', '/home/admin/Documents/IaC/Python/http/reed.xml')
+    file = os.path.join(folder, 'xml_data', '/home/admin/Documents/IaC/Python/http/req/xml/reed.xml')
     
     with open(file) as fin:
         xml_text =  fin.read()
